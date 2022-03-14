@@ -1,5 +1,3 @@
-console.log("This is a cliant side message!")
-
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const messageOne = document.getElementById("message-one");
